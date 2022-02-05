@@ -3,7 +3,7 @@
     "description": "A simple password generator",
     "type": "composer-plugin",
     "license": "proprietary",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
           "MyApp\\": "src/"
