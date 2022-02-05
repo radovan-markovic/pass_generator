@@ -2,7 +2,7 @@
     "name": "raso/password_generator",
     "description": "A simple password generator",
     "type": "composer-plugin",
-    "license": "Raso",
+    "license": "",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
