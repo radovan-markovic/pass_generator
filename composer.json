@@ -20,6 +20,10 @@
         "phpunit/phpunit": "^9"
     },
     "extra": {
-        "Password\\": "src/Password/"
+        "laravel": {
+            "providers": [
+                "Password\\PasswordServiceProvider"
+            ]
+        }
     }
 }
