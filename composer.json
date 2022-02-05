@@ -3,7 +3,14 @@
     "description": "A simple password generator",
     "type": "composer-plugin",
     "license": "proprietary",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Radovan Markovic",
+            "email": "radovan12@hotmail.com"
+        }
+
+    ],
     "autoload": {
         "psr-4": {
           "MyApp\\": "src/"
