@@ -59,8 +59,6 @@ class Password
                 return $password;
             }
 
-
-
         }catch (\Exception $e) {
             return $e->getMessage();
         }
