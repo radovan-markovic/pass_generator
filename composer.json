@@ -3,7 +3,7 @@
     "description": "A simple password generator",
     "type":"library",
     "license": "proprietary",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Radovan Markovic",
