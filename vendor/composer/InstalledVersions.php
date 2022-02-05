@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'b3b0cb54c865cdaccfef99f4b53debe9089ffb7b',
     'name' => 'raso/password_generator',
   ),
   'versions' => 
@@ -176,12 +176,12 @@ private static $installed = array (
     ),
     'raso/password_generator' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'b3b0cb54c865cdaccfef99f4b53debe9089ffb7b',
     ),
     'sebastian/cli-parser' => 
     array (
